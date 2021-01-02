@@ -1,0 +1,28 @@
+---- Example Output ----
+
+    Motion detected!
+    Ready
+[datetime.datetime(2021, 1, 2, 13, 59, 53, 657264), datetime.datetime(2021, 1, 2, 13, 59, 55, 31029), datetime.timedelta(0, 1, 373765)]
+[datetime.datetime(2021, 1, 2, 13, 59, 55, 375316), datetime.datetime(2021, 1, 2, 13, 59, 56, 547018), datetime.timedelta(0, 1, 171702)]
+[datetime.datetime(2021, 1, 2, 13, 59, 56, 820374), datetime.datetime(2021, 1, 2, 13, 59, 58, 133491), datetime.timedelta(0, 1, 313117)]
+[datetime.datetime(2021, 1, 2, 14, 0, 19, 40917), datetime.datetime(2021, 1, 2, 14, 0, 20, 455082), datetime.timedelta(0, 1, 414165)]
+[datetime.datetime(2021, 1, 2, 14, 0, 21, 51688), datetime.datetime(2021, 1, 2, 14, 0, 22, 142649), datetime.timedelta(0, 1, 90961)]
+Last alarm start
+2021-01-02 14:00:21.051688
+Last alarm end
+2021-01-02 14:00:22.142649
+Last alarm duration
+0:00:01.090961
+    Motion detected!
+    Ready
+[datetime.datetime(2021, 1, 2, 13, 59, 55, 375316), datetime.datetime(2021, 1, 2, 13, 59, 56, 547018), datetime.timedelta(0, 1, 171702)]
+[datetime.datetime(2021, 1, 2, 13, 59, 56, 820374), datetime.datetime(2021, 1, 2, 13, 59, 58, 133491), datetime.timedelta(0, 1, 313117)]
+[datetime.datetime(2021, 1, 2, 14, 0, 19, 40917), datetime.datetime(2021, 1, 2, 14, 0, 20, 455082), datetime.timedelta(0, 1, 414165)]
+[datetime.datetime(2021, 1, 2, 14, 0, 21, 51688), datetime.datetime(2021, 1, 2, 14, 0, 22, 142649), datetime.timedelta(0, 1, 90961)]
+[datetime.datetime(2021, 1, 2, 14, 0, 22, 527199), datetime.datetime(2021, 1, 2, 14, 0, 23, 850405), datetime.timedelta(0, 1, 323206)]
+Last alarm start
+2021-01-02 14:00:22.527199
+Last alarm end
+2021-01-02 14:00:23.850405
+Last alarm duration
+0:00:01.323206
